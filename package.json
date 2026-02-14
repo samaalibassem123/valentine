@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "24.x"
+  },
   "name": "valentine",
   "version": "0.1.0",
   "private": true,
